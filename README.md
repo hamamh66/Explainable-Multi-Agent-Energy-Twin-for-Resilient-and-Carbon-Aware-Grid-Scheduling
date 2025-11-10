@@ -1,0 +1,2 @@
+# Explainable-Multi-Agent-Energy-Twin-for-Resilient-and-Carbon-Aware-Grid-Scheduling
+EMAET is a Colab-ready research framework for carbon-aware, explainable, and resilient energy management in low-inertia power systems. It simulates multi-agent coordination between distributed energy resources (DERs) under a leader–follower Stackelberg architecture, integrating:  🌍 Carbon-aware optimization for sustainable scheduling  
